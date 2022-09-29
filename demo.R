@@ -11,3 +11,6 @@ hist(rns)
 # also more draw work well
 hist(rn)
 
+# multiply
+rn*10 
+
