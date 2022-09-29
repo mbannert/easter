@@ -18,3 +18,5 @@ rn*10
 # multiply
 rn*100 
 
+# multiply
+rn*1000
