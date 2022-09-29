@@ -1,2 +1,4 @@
 # this works
-rnorm(100)
+# add a nice plot
+plot(rnorm(100))
+
