@@ -1,13 +1,13 @@
 # put rnorm into one variable
-rn <- rnorm(100)
+rn <- rnorm(1000)
 
 # this works
 # add a nice plot
-plot(rnorm(100))
+plot(rn)
 
 # add more plots
-hist(rnorm(100))
+hist(rns)
 
 # also more draw work well
-hist(rnorm(1000))
+hist(rn)
 
