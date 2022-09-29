@@ -14,3 +14,7 @@ hist(rn)
 # multiply
 rn*10 
 
+
+# multiply
+rn*100 
+
